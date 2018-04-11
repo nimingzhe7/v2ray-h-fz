@@ -2,6 +2,7 @@ cd /v2raybin
 wget -O v2ray.zip https://dl.dropboxusercontent.com/content_link/JHcXZVvsKxqO9pBYMD1ivT1iZfZh9pYpnHk6VsMowcQPJmCBmyk72EF5C7RrWjNW/file?dl=1
 unzip v2ray.zip 
 cd /v2raybin/v2ray-v$VER-linux-64
+
 chmod +x v2ray
 chmod +x v2ctl
 
